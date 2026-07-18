@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0057-insert-interval) |
 | [0525-contiguous-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0525-contiguous-array) |
+| [0986-interval-list-intersections](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0986-interval-list-intersections) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0986-interval-list-intersections) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
