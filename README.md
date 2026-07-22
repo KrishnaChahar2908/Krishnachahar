@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0057-insert-interval) |
+| [0503-next-greater-element-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0525-contiguous-array) |
 | [0986-interval-list-intersections](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0986-interval-list-intersections) |
 ## Hash Table
@@ -46,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
