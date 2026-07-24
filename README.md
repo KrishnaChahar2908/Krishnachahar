@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0525-contiguous-array) |
 ## Prefix Sum
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -65,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
