@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0056-merge-intervals) |
+| [3536-maximum-product-of-two-digits](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
