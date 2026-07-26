@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0057-insert-interval) |
 | [0503-next-greater-element-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0739-daily-temperatures) |
 | [0986-interval-list-intersections](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0986-interval-list-intersections) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0056-merge-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
