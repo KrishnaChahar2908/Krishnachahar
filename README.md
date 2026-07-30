@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0057-insert-interval) |
+| [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0525-contiguous-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1189-maximum-number-of-balloons) |
