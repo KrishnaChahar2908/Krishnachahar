@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0056-merge-intervals) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0011-container-with-most-water) |
 | [0986-interval-list-intersections](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
