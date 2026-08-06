@@ -21,7 +21,6 @@ class Solution {
             left2++;
         }
 
-
         return map1.equals(map2);
 
     }
