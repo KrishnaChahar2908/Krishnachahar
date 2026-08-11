@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0242-valid-anagram) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
