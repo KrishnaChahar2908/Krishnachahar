@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0525-contiguous-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0875-koko-eating-bananas) |
@@ -157,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
