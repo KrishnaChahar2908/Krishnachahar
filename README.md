@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0525-contiguous-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0496-next-greater-element-i) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/3536-maximum-product-of-two-digits) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1189-maximum-number-of-balloons) |
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
@@ -169,4 +175,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
