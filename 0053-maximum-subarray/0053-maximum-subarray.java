@@ -1,14 +1,19 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int ans = nums[0];
-        int bestending = nums[0];
-        for(int i=1;i<nums.length;i++){
-            int v1 = nums[i];
-            int v2 = nums[i] + bestending;
-            bestending = Math.max(v1,v2);
+       int n = nums.length;
 
-            ans = Math.max(ans,bestending);
-        }
-        return ans;
+       int bestending = nums[0];
+       int Answer = nums[0];
+
+       for(int i=1;i<n;i++){
+
+        int value1 = bestending + nums[i];
+        int value2 = nums[i];
+
+        bestending = Math.max(value1,value2);
+        Answer = Math.max(Answer,bestending);
+
+       }
+       return Answer;
     }
 }
