@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0543-diameter-of-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0226-invert-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -286,4 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
