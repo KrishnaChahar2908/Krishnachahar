@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0503-next-greater-element-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
