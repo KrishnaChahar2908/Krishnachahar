@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0904-fruit-into-baskets) |
 | [0986-interval-list-intersections](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0986-interval-list-intersections) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0525-contiguous-array) |
+| [0904-fruit-into-baskets](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KrishnaChahar2908/Krishnachahar/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
